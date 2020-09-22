@@ -1,0 +1,167 @@
+932006	Flat affect
+1376001	obsessive-compulsive personality
+1402001	fear (mental process)
+3424008	Tachycardia
+6140007	Blunted affect
+7011001	Hallucinations
+8357008	Decreased Libido
+8943002	weight gain
+11193009	Taste, Metallic
+13746004	Bipolar Disorder
+14760008	Constipation
+16331000	Heartburn
+18232000	difficulty coping
+18963009	mood swings
+20602000	Apathy
+22253000	pain
+24184005	Increase in blood pressure
+24199005	agitation
+24936000	emotionally detached
+25064002	headache
+25786006	abnormal behavior
+26079004	Tremor
+26413003	Low motivation
+26677001	Sleep pattern disturbance
+29857009	Chest Pain
+32914008	Restless Legs Syndrome
+32939004	Morbid hunger
+34951003	Drugged state
+35209006	personality sensitivity
+37125009	Mydriasis
+37796009	migraine disorders
+40915004	Orgasm impairment
+42984000	night sweats
+43364001	Abdominal discomfort
+44077006	Numbness
+45991007	Loss of capacity to feel emotions
+48167000	Amnesia
+48694002	anxiety
+50849002	Emergency room admission
+51197009	Stomach cramps (finding)
+52613005	Increased sweating
+53888004	sleep disturbances
+55533009	Forgetful
+55929007	irritable mood
+57676002	Arthralgia
+58436003	Increased Libido
+58703003	depression, postpartum
+59050008	Initial insomnia
+60032008	Unable to concentrate
+60119000	exhaustion
+60238002	Muscle twitch
+60862001	Tinnitus
+62315008	Diarrhea
+62476001	disorientation
+62607004	Orgasm incapacity
+64269007	Hallucinations, Visual
+64379006	Decrease in appetite
+66590003	Alcoholic Intoxication, Chronic
+67233009	Middle insomnia
+68962001	Myalgia
+72405004	Increased appetite (finding)
+73595000	stress
+75408008	anger
+77692006	hypersomnia
+79015004	worried
+79499004	depersonalization
+79823003	Panic
+79890006	loss of appetite (finding)
+80313002	Palpitations
+80583007	Severe anxiety (panic)
+81680005	Neck Pain
+82313006	suicide attempt
+82991003	Generalized aches and pains
+83421005	Failure to lose weight
+84229001	fatigue
+87715008	Xerostomia
+89362005	Weight decreased
+90207007	Bruxism
+102612005	Alcohol intolerance
+102897001	Feeling intoxicated
+105411000	social withdrawal
+110302009	Clenching teeth
+111487009	Nightmare Disorder
+111516008	Blurred vision
+130989002	Sleep Deprivation
+160685001	Bed-ridden
+160689007	housebound (finding)
+162059005	Upset stomach
+162213003	crying, excessive
+162221009	restlessness
+162290004	Dryness of eye
+162351000	Buzzing in ear
+193462001	sleeplessness
+203082005	fibromyalgia
+214264003	lethargy
+224398005	restricted work performance
+224960004	tired
+224994002	Excessive body weight gain
+225457007	feeling suicidal (finding)
+225522006	Feels dreams are real
+225624000	panic attacks
+228365005	Craving for alcohol
+231532002	Sexual Dysfunction
+238131007	Overweight
+247592009	Poor short-term memory
+247627003	Slow flow of thought
+247640008	unable to think clearly
+247653006	Negative automatic thoughts
+247761005	Reduced concentration
+247779009	Excessive energy
+247796005	anhedonia
+247832004	Social fear
+247953009	Detailed recall of dream
+248061004	self-harm
+248096004	lack of libido
+248223005	Felt faint
+248255005	Cannot sleep at all
+248262001	always sleepy
+248626009	Yawning
+249497008	Vomiting
+263897001	feeling tense
+267026004	Polydipsia
+267036007	dyspnea
+267073005	suicidal
+271594007	Syncope
+271782001	Drowsiness
+274951009	outbursts of anger
+277521002	loss of motivation
+278040002	Alopecia
+285303006	racing thoughts
+285851007	unable to control emotions
+286641001	moody (finding)
+286933003	confusion
+300306001	Stomach problem
+300895004	anxiety attack
+304534000	crying
+307074005	Euphoric mood
+307077003	feeling hopeless
+309257005	Excessive weight loss
+315642008	Influenza-like symptoms
+366979004	depressed mood
+367391008	malaise
+370143000	Major Depressive Disorder
+372947007	Excessive somnolence
+373932008	Feels hot
+386705008	Lightheadedness
+386790008	Disorder of ejaculation
+386806002	Impaired cognition
+386807006	Memory impairment
+386816005	Emotional disorder
+394656005	Hospitalization
+397803000	Erectile dysfunction
+398032003	Loose stool
+398057008	Tension Headache
+399153001	Vertigo
+404640003	Dizziness
+405273008	manic mood
+415690000	Sweating
+419145002	Nightmares
+419581008	Bizarre dreams
+422587007	Nausea
+424196004	feeling nervous
+424573006	difficulty maintaining relationships
+427368007	Hot flushes
+713822005	Wakes up during night
+715039008	Unable to cry
+141000119100	Daytime somnolence

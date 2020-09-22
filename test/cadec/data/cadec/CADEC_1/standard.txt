@@ -1,0 +1,181 @@
+45326000	shoulder pain
+29857009	chest pain
+55300003	muscle cramp
+271832001	flatulence, eructation and gas pain
+267032009	tired all the time
+68962001	myalgia
+162076009	excessive upper gastrointestinal gas
+162059005	upset stomach
+247640008	unable to think clearly
+30989003	knee pain
+279039007	low back pain
+309086004	paraesthesia of hand
+47933007	foot pain
+131148009	bleeding
+53057004	hand pain
+10601006	pain in lower limb
+62507009	pins and needles
+193462001	insomnia
+3080011000036109	tylenol
+56265001	heart disease
+246636008	blurred vision - hazy
+77424011000036100	ubidecarenone
+70733008	limitation of joint movement
+309538000	numbness of foot
+88092000	muscle atrophy
+22253000	pain
+81680005	neck pain
+250069006	muscle tension
+278528006	facial swelling
+161873000	heavy legs
+95891005	influenza-like illness
+90673000	burning sensation
+2733002	heel pain
+60119000	exhaustion
+49218002	hip pain
+248274002	lack of energy
+431416001	menstrual cramp
+267052005	flatulence/wind
+203095000	spasm of back muscles
+51197009	stomach cramps
+44077006	numbness
+82991003	generalised aches and pains
+386807006	memory impairment
+278040002	loss of hair
+35489007	depression
+8510008	reduced mobility
+80449002	muscle fatigue
+60032008	unable to concentrate
+102556003	pain in upper limb
+418363000	itching of skin
+60238002	muscle twitch
+309537005	numbness of lower limb
+62315008	diarrhoea
+44054006	type 2 diabetes mellitus
+162352007	ringing in ear
+228158008	walking disability
+129565002	myopathy
+419723007	mentally dull
+166643006	liver enzymes abnormal
+67849003	excruciating pain
+300954003	pain in calf
+277521002	loss of motivation
+166892002	random blood sugar raised
+3424008	tachycardia
+271807003	rash
+26329005	poor concentration
+418290006	itching
+38341003	hypertension
+225609009	stiff legs
+8943002	weight gain
+25064002	headache
+57676002	arthralgia
+102551008	cramp in foot
+18963009	mood swings
+247373008	ankle pain
+248277009	lack of stamina
+26544005	muscle weakness
+429783005	paraesthesia of lower extremity
+40917007	confusion
+286641001	moody
+26079004	tremor
+77692006	hypersomnia
+76948002	severe pain
+399153001	vertigo
+34840004	tendonitis
+309774006	weakness of limb
+247592009	poor short-term memory
+449917004	cramp in lower limb
+230145002	difficulty breathing
+21545007	tenalgia
+262286000	weight increased
+282145008	unable to walk
+224960004	tired
+21885011000036105	ibuprofen
+3848011000036104	pravachol
+202882003	plantar fasciitis
+422587007	nausea
+9991008	abdominal colic
+238810007	flushing
+271782001	drowsy
+21242011000036102	simvastatin
+271681002	stomach ache
+84229001	fatigue
+267949000	shoulder joint pain
+449918009	cramp in lower leg
+250084002	cramp in calf
+249966004	spasmodic movement
+13791008	asthenia
+288226003	myalgia/myositis - shoulder
+386033004	neuropathy
+74323005	pain in elbow
+250082003	hand cramps
+230690007	cerebrovascular accident
+29542008	uterine spasm
+16973004	limping
+21779011000036103	cortisone
+24199005	feeling agitated
+3384011000036100	arthrotec
+309521004	numbness of hand
+55929007	feeling irritable
+63102001	visual disturbance
+78514002	thigh pain
+301345002	difficulty sleeping
+288230000	myalgia/myositis -pelvis/thigh
+8357008	reduced libido
+165247006	unable to climb stairs
+298753001	numbness of upper limb
+34436003	haematuria
+49049000	parkinson's disease
+386692008	menorrhagia
+166717003	serum creatinine raised
+55533009	forgetful
+387603000	impairment of balance
+3877011000036101	lipitor
+3723001	arthritis
+161891005	backache
+309539008	numbness of toe
+54981004	charleyhorse
+249913002	knee stiff
+37796009	migraine
+22298006	myocardial infarction
+69896004	rheumatoid arthritis
+367391008	malaise
+86651002	pulse fast
+404640003	dizziness
+288228002	myalgia/myositis - forearm
+386806002	impaired cognition
+23924001	tight chest
+77435011000036104	ascorbic acid
+248096004	lack of libido
+24184005	finding of increased blood pressure
+213257006	generally unwell
+698065002	acid reflux
+247323005	tightness in throat
+301676004	unable to get off a bed
+288231001	myalgia/myositis - lower leg
+60862001	tinnitus
+267953003	arthralgia of the lower leg
+271587009	stiffness
+248255005	cannot sleep at all
+425423002	pain provoked by movement
+288939007	difficulty swallowing
+36031001	burning feet
+166830008	serum cholesterol raised
+16386004	dry skin
+422400008	vomiting
+285365001	pain in toe
+267044007	impaired exercise tolerance
+405729008	haematochezia
+45352006	spasm
+302226006	peripheral neuropathy
+102480002	generalised acute body pains
+21522001	abdominal pain
+386705008	lightheadedness
+235856003	liver disease
+32914008	restless legs
+426899007	pain provoked by walking
+279038004	thoracic back pain
+80313002	palpitations
+426206001	constant pain
+79890006	loss of appetite

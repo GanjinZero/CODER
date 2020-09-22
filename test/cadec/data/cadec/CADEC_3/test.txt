@@ -1,0 +1,397 @@
+22253000	pains
+246636008	little blurred vision
+271681002	stomach pain
+21522001	severe stomach pain
+431416001	period cramps
+51197009	stomach cramping
+262286000	weight increase
+698065002	affecting my stomach(acid reflux)
+62315008	dioreah
+34436003	urine full of blood
+62315008	diarrhoa
+47933007	pain in foot
+3384011000036100	arthrotec 75
+57676002	pain in major joints
+76948002	severe pain
+45326000	shoulder pain
+68962001	muscular pains
+29542008	uterus contractions
+79890006	loss of apetite
+131148009	bleeding problem
+386705008	lightheaded
+386692008	period all month long
+55300003	severe cramping
+422400008	vomiting
+49218002	pain in my hips
+271681002	stomach pains
+422587007	severe nausea
+16386004	skin is so dry
+422587007	slight nausea
+24184005	increased bp
+67849003	pain unbearable
+279039007	pain in my lower back
+8943002	weight gain
+162076009	general stomach upset feeling
+3424008	rapid heart beat
+230690007	stroke
+49218002	pain in my hip
+62315008	diarrhoea
+131148009	bleeding problems
+47933007	pain in feet
+271807003	skin rash
+8357008	low libido
+74323005	pain in elbow
+30989003	pain in knee
+418290006	itchy
+386807006	memory trouble
+23924001	tight chest
+102480002	i feel like i've been run over by a truck
+60862001	tinnitus
+57676002	pain in my joints
+68962001	pain in muscles
+8510008	decreased mobility
+26544005	strength decrease dramatically
+88092000	muscle wasting
+56265001	heart issues
+77424011000036100	coq10
+367391008	ill feeling
+49218002	pain of the hip joint
+22253000	painful
+449917004	severe leg cramping
+45326000	shoulders hurt
+166830008	elevated cholesterol
+55300003	muscle spasms
+76948002	servere pain
+271681002	stomache aches
+88092000	muscles have diminished
+267032009	tired all the time
+278040002	hairloss
+95891005	flu-like symptoms
+34840004	tendonitis
+248274002	low in energy
+13791008	weak
+228158008	dragging legs
+246636008	slightly blurred vision
+21545007	tendonitis
+55300003	mussle spasm
+63102001	vision problems
+57676002	pain in every joint
+386807006	memory problems
+57676002	pain in joints
+47933007	pain in bottom of feet
+22298006	massive heart attack
+30989003	pain in my knees
+86651002	resting pulse had jumped to about 120
+161891005	pain in my abdomen
+54981004	charley horses in the abdomen
+54981004	charley horses in sides
+32914008	restless legs syndrome (rls)
+161891005	pain in back
+279039007	pain in lower back
+84229001	needed to rest every few minutes
+426899007	painful to walk
+57676002	painful inflammed joints
+309774006	weakness in legs
+77692006	just wanted to sleep
+22253000	painfull
+70733008	movement restriction
+102556003	pain in my arms
+26544005	no strength
+36031001	heel is hot
+301345002	problems sleeping
+282145008	lost my ability to walk
+162076009	general weak feeling overall
+399153001	vertigo like attacks
+26544005	mussel weakness
+399153001	vertigo like episodes
+35489007	suicidal depression
+228158008	difficulty walking
+68962001	pain muscle
+25064002	on the back of the head pain in every tendon
+224960004	very tired
+49218002	pain in my left hip
+449917004	severn leg cramps
+3877011000036101	liptior
+26329005	terrible concentration
+247323005	tightness in throat with occasional choking problem
+278040002	loss of hair
+166830008	cholestrol went up dramatically
+213257006	felt very unwell
+68962001	severe muscle pain
+76948002	severe pains
+76948002	severe muscle pains
+387603000	poor balance
+224960004	very very tired
+301676004	not being able to get out of bed in the morning
+193462001	sleeplesness
+247640008	loss of coherent thought
+404640003	dizzyness
+62315008	diarria
+288231001	muscle pain in the leg
+193462001	sleepless nights
+62507009	tingling in the hands
+24184005	increased blood pressure
+449917004	severe leg cramps
+29857009	chestpain
+309774006	weakness in both arms
+247592009	short-term memory loss
+22253000	pressure pain
+51197009	sporadic lower abdominal cramping
+80449002	over-streesed muscles
+288231001	pain in leg muscles
+30989003	pain in my knee
+282145008	inablity to walk
+38341003	high blood pressure
+81680005	pain neck
+162059005	stomach upsets
+161873000	legs always feeling like lead
+129565002	neck muscel problems
+404640003	intense dizziness
+55300003	night muscle cramps
+235856003	liver problems
+288226003	shoulder muscle pain
+10601006	pain in legs
+301345002	poor sleep
+68962001	severe myalgia
+62507009	tingling in the scalp
+166717003	elevated creatinine
+166892002	increased blood glucose
+386807006	memory lapses
+418363000	skin itchiness
+228158008	hard to walk
+10601006	pain in leg
+286641001	moody
+16973004	limped
+247373008	pain in ankles
+54981004	charlie horse in feet
+278528006	slight swelling of cheeks
+248255005	not sleeping
+29857009	intense chest pains
+419723007	mental malaise
+88092000	muscles deteriorated
+26544005	severe muscle weakness
+95891005	flu-like syptoms
+8357008	lost all sexual desires and thoughts
+68962001	muscular pain
+80449002	muscle weariness in legs
+246636008	fuzzy vision
+13791008	very weak
+386807006	memory weakened
+55929007	irritibility
+248096004	sex drive became non-existant
+248274002	lowering of energy
+56265001	heart problems
+271832001	gas pains in abdomen
+277521002	loss the will to do anything
+250084002	leg calf cramps
+77692006	no amount of sleep makes me feel rested
+55300003	muscles cramp
+68962001	myalgia
+26079004	tremors
+271807003	rush all over my face
+68962001	painful muscles
+80313002	palpatations
+90673000	burning sensations in shoulders
+90673000	burning sensations in upper chest
+90673000	burning sensations in neck
+13791008	weak all the time
+302226006	periphiral neuropathy
+60032008	not being able to concentrate
+246636008	foggy vision
+25064002	severe headache
+386807006	memory problem
+300954003	pain in lower legs
+77424011000036100	coq-10
+309086004	tingeling in fingers
+300954003	pain in calf muscle
+40917007	mentally in a daze
+80449002	muscle tiring
+80449002	tire very quickly muscles
+68962001	severe myalgias
+129565002	myopathies
+63102001	vision problems - seeing two or three of everything
+10601006	pain in my lower legs and feet
+309521004	right hand has been getting numb
+53057004	right hand has been hurting
+68962001	overall muscle soreness
+26544005	significant strength reduction
+57676002	painful inflamation of joints
+102551008	serious feet cramping
+228158008	difficulty walking due to swelling in legs
+279038004	pain inbetween both shoulder blades
+288939007	difficulty swallowing
+60032008	not concentrating well
+3080011000036109	tylenol pm
+60862001	tinnitus (left ear)
+288231001	muscle pain in the legs
+45326000	shoulder painful
+78514002	soreness in thighs
+26329005	some concentration problems
+309537005	started going numb legs
+449918009	muscle cramps in lower legs
+74323005	pain in both elbows
+30989003	pains in my left knee
+298753001	numbness on left arm
+62507009	tingling on left side of face
+62507009	tingling on left arm
+249966004	twitching in thighs
+129565002	permanent damage to my muscles
+309774006	weakness in both legs
+10601006	pain in my lower leg
+225609009	stiffness in legs
+30989003	pain in knees
+386033004	neurophaty
+419723007	mental fogginess
+13791008	weak & wobbley wrists
+78514002	thigh pain
+82991003	everything on my body hurts
+193462001	severe insomnia
+161891005	pain in the back
+249913002	stiffness at left knee
+49218002	pain in my hipjoints
+429783005	tingling in legs
+62507009	tingling in toes and feet
+102551008	severe cramps in toes
+3877011000036101	liptitor
+21242011000036102	simvostatin
+47933007	pain in my foot
+228158008	dificultly in walking
+55300003	mussel spasms
+55300003	mussel cramps
+68962001	severe muscle aches
+277521002	loss of interest in life
+82991003	hert from head to my toe
+230145002	hard to breath
+449917004	painful leg cramps
+68962001	pain in almost every muscle
+162076009	general weakness in my feet
+162076009	general weakness in my calves
+162076009	general weakness in my hands
+3723001	inflammation of my joints
+62507009	tingling in the soles of my feet
+250082003	hand cramps
+250084002	cramps in my left calf
+162076009	general overal weakness
+88092000	muscles wasting
+387603000	problems with balance
+77424011000036100	cq-10
+166643006	liver enzymes were elevated
+247373008	sore ankles
+162076009	general weakness
+22253000	pain so bad
+425423002	moving in bed is painful
+22298006	mild heart attack
+95891005	flu-symptoms
+285365001	toes hurt
+81680005	pains neck
+49218002	pains hips
+60238002	muscle twitching on calves
+60238002	muscle twitching on bottom of feet
+3848011000036104	provacal
+69896004	rheumatoid arthtitis
+68962001	muscule aches & pains
+425423002	pain when i sit down or stand from a sitting position
+238810007	hot/heated flushing sensation that began mid-torso and continued up to the top of head (top of scalp started tingling and burning)
+309774006	weakness in his knees
+82991003	hurt every where
+55533009	forgetfullness
+18963009	severe mood swings
+309521004	prickling,numbness in hand
+300954003	pain in my calves
+267044007	impaired my ability to exercise
+419723007	in a fog
+21779011000036103	cortisone shots
+35489007	mmdepression
+161873000	legs feel leaden
+288230000	pain in my thighs (muscle cramping)
+267052005	severe gas
+53057004	pains in hands
+37796009	worse headache than usual (i have migraine)
+309539008	numbness in right toe
+418290006	itchy crawly feeling
+267949000	joint pain in shoulder
+8357008	low sex drive
+203095000	severe cramping in my back
+449917004	severe cramping in my legs
+84229001	persistent fatigue
+57676002	minor joint soreness
+68962001	severe muscle aces
+25064002	severe headaces
+301345002	rarely sleep well
+235856003	trouble with my liver
+162076009	genetically high ldl
+45352006	spasms in upper thighs
+162076009	generalized skin discoloration
+278040002	losing my hair
+267953003	leg joint pain similar to arthritis
+81680005	slight neck pain
+129565002	myopathy
+367391008	i didn't feel right
+62507009	tingling of feet
+10601006	pain in the leg
+95891005	flu-like symtoms
+161891005	pains in her back
+419723007	like im in a fog all the time
+309774006	weakness in knees
+44054006	type ii diabetic
+162076009	general weakness in hands
+247592009	short-term memory disappeared
+49049000	parkinson/s
+102556003	pain in my arm and shoulder
+62507009	tingling legs
+10601006	pain in my lower legs
+60032008	problems with concentration
+60119000	exhausting
+10601006	pain in my legs
+309774006	weakness in hips
+49218002	pain in hips
+102556003	pain in my arm
+25064002	pain from the headache
+13791008	was incredibly week
+426206001	extreme constant pain
+44077006	numbness in muscles
+76948002	severe pain close to my the crotch area
+228158008	hard time walking
+84229001	much fatigue
+419723007	mental fog
+82991003	mild aches
+45326000	shoulder pain was unbearable
+162352007	ringing in the ears
+84229001	sever fatigue
+166717003	elevated creatine
+250069006	muscles very tight
+30989003	persistent pain in knee
+47933007	pain in left foot
+26544005	strength depletion
+202882003	severe plantar faciitis
+271587009	stiffness in whole body
+288228002	pain in muscles of both upper arms
+228158008	hard to pick up feet
+26079004	tremors although the body
+55929007	very grouchy
+22253000	pains so bad
+271782001	hard to stay awake
+45326000	shoulders ache
+62507009	tingling in the neck
+247640008	inability to think fast enough
+3723001	sever arthritic condition
+2733002	right heel became painful
+309774006	weakness in leg muscles
+162076009	generaly feeling unwell like walking in a daze (zombie like)
+386806002	decreased cognitive skills
+88092000	muscle wasting in the arms
+88092000	muscle wasting in the shoulders
+309538000	numbness in my feet
+47933007	pain in their feet
+248277009	stength and stamina destroyed
+77435011000036104	vitc
+165247006	unable to even climb 1 flight of stairs
+267052005	uncontrollable gas
+68962001	muscule pain
+161891005	pains back
+24199005	agitation
+9991008	intestinal/stomach pain
+405729008	blood in stool
+162059005	upset my stomach
+21885011000036105	iubrofen
+55300003	muscle spasm
