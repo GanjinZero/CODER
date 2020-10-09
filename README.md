@@ -1,9 +1,9 @@
-# UMLSBert
-UMLSBert is a medical pretrained language model which utilizes information from UMLS.
+# CODER
+CODER is a medical pretrained language model which utilizes information from UMLS.
 
 # Use the model by transformers
 
-## To use UMLSBert_ENG
+## To use CODER_ENG
 ```python
 from transformers import AutoTokenizer, AutoModel
 
@@ -11,7 +11,7 @@ tokenizer = AutoTokenizer.from_pretrained("GanjinZero/UMLSBert_ENG")
 model = AutoModel.from_pretrained("GanjinZero/UMLSBert_ENG")
 ```
 
-## To use UMLSBert_ALL (Multi-Language)
+## To use CODER_ALL (Multi-Language)
 ```python
 from transformers import AutoTokenizer, AutoModel
 
@@ -79,3 +79,9 @@ python train.py your_embedding embedding_type freeze_or_not gpu_id
 - freeze_or_not should be in [T, F], T means freeze the embedding, and F means fine-tune the embedding
 - gpu_id should be a number, e.g. 0
 
+## mantra
+Download the Mantra GSC and unzip the xml files to /test/mantra/dataset, run
+```
+cd test/mantra
+python test.py
+```
