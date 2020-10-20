@@ -59,7 +59,7 @@ class UMLSPretrainedModel(nn.Module):
 
         self.standard_dataloader = None
 
-        # self.sequence_summary = SequenceSummary(AutoConfig.from_pretrained(model_name_or_path)) # Now only used for XLNet
+        self.sequence_summary = SequenceSummary(AutoConfig.from_pretrained(model_name_or_path)) # Now only used for XLNet
 
     def softmax(self, logits, label):
         loss = self.cui_loss_fn(logits, label)
@@ -89,12 +89,11 @@ class UMLSPretrainedModel(nn.Module):
             pooled_output = outputs[1]
             return pooled_output
 
-        """
         # xlnet
         outputs = self.bert(input_ids)
         pooled_output = self.sequence_summary(outputs[0])
         return pooled_output
-        """
+
 
     # @profile
     def forward(self,

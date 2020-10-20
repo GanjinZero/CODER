@@ -281,7 +281,8 @@ if __name__ == "__main__":
                       "/home/yz/pretraining_models/BiomedNLP-PubMedBERT-base-uncased-abstract",
                       "/home/yz/pretraining_models/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
                       "/home/yz/pretraining_models/kexinghuang_clinical",
-                      "emilyalsentzer/Bio_ClinicalBERT"]
+                      "emilyalsentzer/Bio_ClinicalBERT",
+                      "../../models/UMLSBert_nosty"]
     #mcsm(embedding_list, ["bert"] * 6, check_intersection=True)
     #mcsm(embedding_list, ["bert"] * 6)
-    mcsm([embedding_list[5]], ["bert"])
+    mcsm([embedding_list[-1]], ["bert"])

@@ -1,6 +1,6 @@
 #python train.py ../../models/2020_eng bert T 0
 #python train.py ../../models/2020_all bert T 0
-python train.py bert-base-cased bert T 0
+#python train.py bert-base-cased bert T 0
 #python train.py ../../embeddings/GoogleNews-vectors-negative300.bin word T 0
 #python train.py ../../embeddings/GoogleNews-vectors-negative300.bin word F 0
 #python train.py ../../embeddings/wikipedia-pubmed-and-PMC-w2v.bin word T 0
@@ -12,3 +12,4 @@ python train.py bert-base-cased bert T 0
 #python train.py /home/yz/pretraining_models/cui2vec.pkl cui T 0
 #python train.py /home/yz/pretraining_models/cui2vec.pkl cui T 1
 #python train.py ../../embeddings/DeVine_etal_200.txt cui T 0
+python train.py ../../models/UMLSBert_norel bert T 0

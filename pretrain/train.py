@@ -198,7 +198,9 @@ def run(args):
         model = UMLSPretrainedModel(device=args.device, model_name_or_path=args.model_name_or_path,
                                     cui_label_count=len(umls_dataset.cui2id),
                                     rel_label_count=rel_label_count,
-                                    sty_label_count=len(umls_dataset.sty2id)).to(args.device)
+                                    sty_label_count=len(umls_dataset.sty2id),
+                                    re_weight=args.re_weight,
+                                    sty_weight=args.sty_weight).to(args.device)
         args.shift = 0
         model_load = True
 
@@ -271,7 +273,7 @@ def main():
     )
     parser.add_argument("--warmup_steps", default=10000,
                         help="Linear warmup over warmup_steps or a float.")
-    parser.add_argument("--device", type=str, default='cuda:0', help="device")
+    parser.add_argument("--device", type=str, default='cuda:1', help="device")
     parser.add_argument("--seed", type=int, default=72,
                         help="random seed for initialization")
     parser.add_argument("--schedule", type=str, default="linear",
@@ -284,6 +286,10 @@ def main():
                         help="Num workers for data loader, only 0 can be used for Windows")
     parser.add_argument("--lang", default='eng', type=str, choices=["eng", "all"],
                         help="language range, eng or all")
+    parser.add_argument("--sty_weight", type=float, default=0.0,
+                        help="Weight of sty.")
+    parser.add_argument("--re_weight", type=float, default=1.0,
+                        help="Weight of re.")
 
     args = parser.parse_args()
 
