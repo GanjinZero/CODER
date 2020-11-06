@@ -1,5 +1,5 @@
 # CODER
-CODER is a medical pretrained language model which utilizes information from UMLS.
+CODER is a medical pretrained language model which utilizes information from UMLS. [Paper](http://arxiv.org/abs/2011.02947)
 
 # Use the model by transformers
 
