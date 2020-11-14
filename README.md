@@ -85,3 +85,13 @@ Download the Mantra GSC and unzip the xml files to /test/mantra/dataset, run
 cd test/mantra
 python test.py
 ```
+
+## Citation
+```bibtex
+@article{yuan2020coder,
+  title={CODER: Knowledge infused cross-lingual medical term embedding for term normalization},
+  author={Yuan, Zheng and Zhao, Zhengyun and Yu, Sheng},
+  journal={arXiv preprint arXiv:2011.02947},
+  year={2020}
+}
+```
