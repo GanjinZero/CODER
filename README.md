@@ -31,6 +31,7 @@ cd pretrain
 python train.py --umls_dir your_umls_dir --model_name_or_path monologg/biobert_v1.1_pubmed --num_workers 0
 ```
 your_umls_dir should contain **MRCONSO.RRF**, **MRREL.RRF** and **MRSTY.RRF**.
+UMLS Download path:[UMLS](https://www.nlm.nih.gov/research/umls/licensedcontent/umlsarchives04.html#2020AA).
 
 # A small tool for load UMLS RRF
 
@@ -39,7 +40,7 @@ from pretrain.load_umls import UMLS
 umls = UMLS(your_umls_dir)
 ```
 
-# Test UMLSBert or other embeddings
+# Test CODER or other embeddings
 ## CADEC
 ```shell
 cd test
@@ -81,7 +82,7 @@ python train.py your_embedding embedding_type freeze_or_not gpu_id
 - gpu_id should be a number, e.g. 0
 
 ## mantra
-Download the Mantra GSC and unzip the xml files to /test/mantra/dataset, run
+Download [the Mantra GSC](https://files.ifi.uzh.ch/cl/mantra/gsc/GSC-v1.1.zip) and unzip the xml files to /test/mantra/dataset, run
 ```
 cd test/mantra
 python test.py
