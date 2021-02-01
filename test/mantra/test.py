@@ -9,12 +9,26 @@ from transformers import AutoTokenizer, AutoModel, AutoConfig
 from data_util import load
 import tqdm
 
-
-batch_size = 64
+batch_size = 128
 device = "cuda:0"
 
 
-def main(filename, summary_method="CLS"):
+def get_umls():
+    umls_label = []
+    umls_label_set = set()
+    umls_des = []
+    umls = UMLS("../../umls", source_range=["MSH", "SNOMEDCT_US", "MDR"], only_load_dict=True)
+    for cui in tqdm.tqdm(umls.cui2str):
+        if not cui in umls_label_set:
+            tmp_str = list(umls.cui2str[cui])
+            umls_label.extend([cui] * len(tmp_str))
+            umls_des.extend(tmp_str)
+            umls_label_set.update([cui])
+    print(len(umls_des))
+    return umls_label, umls_des
+
+
+def main(filename, summary_method, umls_label, umls_des):
     try:
         config = AutoConfig.from_pretrained(filename)
         model = AutoModel.from_pretrained(
@@ -34,9 +48,9 @@ def main(filename, summary_method="CLS"):
         tokenizer = AutoTokenizer.from_pretrained(
             os.path.join(filename, "../"))
 
-    corpus_list = [("EMEA", "de"), ("EMEA", "es"), ("EMEA", "fr"), ("EMEA", "nl"),
-                   ("Medline", "de"), ("Medline", "es"), ("Medline", "fr"), ("Medline", "nl"),
-                   ("Patent", "de"), ("Patent", "fr")]
+    corpus_list = [("Medline", "es"), ("Medline", "fr"), ("Medline", "nl"), ("Medline", "de"),
+                   ("EMEA", "es"), ("EMEA", "fr"), ("EMEA", "nl"), ("EMEA", "de"),
+                   ("Patent", "fr"), ("Patent", "de")]
     """
     sty_list = ["Geographic Area",
                 "Drug Delivery Device", "Medical Device", "Research Device",
@@ -44,17 +58,6 @@ def main(filename, summary_method="CLS"):
                 "Chemical", "Chemical Viewed Functionally", "Chemical Viewed Structurally", "Inorganic Chemical", "Organic Chemical", "Clinical Drug"]
     """
     result_dict = {}
-
-    umls_label = []
-    umls_label_set = set()
-    umls_des = []
-    umls = UMLS("../../umls", source_range=["MSH", "SNOMEDCT_US", "MDR"])
-    for cui in tqdm.tqdm(umls.cui2str):
-        if not cui in umls_label_set:# and umls.cui2sty[cui] in sty_list:
-            umls_label.append(cui)
-            umls_des.append(list(umls.cui2str[cui])[0])
-            umls_label_set.update([cui])
-    
     umls_embedding = get_bert_embed(umls_des, model, tokenizer, summary_method=summary_method, tqdm_bar=True)
 
     for corpus in corpus_list:
@@ -67,26 +70,24 @@ def main(filename, summary_method="CLS"):
         result_dict[corpus[0] + "|" + corpus[1]] = (p, r, f1)
         print(p, r, f1)
 
-    """
-    for key in result_dict:
-        print(key, result_dict[key])
-    """
+    return result_dict
 
 def predict(text_embedding, umls_embedding, umls_label):
     x_size = text_embedding.size(0)
-    """
-    for idx in range(x_size):
-        emb = text_embedding[idx]
-    """
     sim = torch.matmul(text_embedding, umls_embedding.t())
     most_similar = torch.max(sim, dim=1)[1]
     return [umls_label[idx] for idx in most_similar]
+
 
 def metric(output_label, predict_label):
     predict_count = 0
     true_count = 0
     correct_count = 0
     for idx in range(len(output_label)):
+        if isinstance(predict_label[idx], str):
+            predict_label[idx] = [predict_label[idx]]
+        if isinstance(output_label[idx], str):
+            output_label[idx] = [output_label[idx]]
         predict_count += len(predict_label[idx])
         true_count += len(output_label[idx])
         for pred in predict_label[idx]:
@@ -139,4 +140,5 @@ def get_bert_embed(phrase_list, m, tok, normalize=True, summary_method="CLS", tq
 
 
 if __name__ == '__main__':
-    main("GanjinZero/UMLSBert_ALL", "MEAN")
+    umls_label, umls_des = get_umls()
+    main("bert-base-multilingual-cased", "CLS", umls_label, umls_des)
