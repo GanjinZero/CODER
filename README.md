@@ -90,10 +90,12 @@ python test.py
 
 ## Citation
 ```bibtex
-@article{yuan2020coder,
-  title={CODER: Knowledge infused cross-lingual medical term embedding for term normalization},
-  author={Yuan, Zheng and Zhao, Zhengyun and Yu, Sheng},
-  journal={arXiv preprint arXiv:2011.02947},
-  year={2020}
+@misc{yuan2021coder,
+      title={CODER: Knowledge infused cross-lingual medical term embedding for term normalization}, 
+      author={Zheng Yuan and Zhengyun Zhao and Haixia Sun and Jiao Li and Fei Wang and Sheng Yu},
+      year={2021},
+      eprint={2011.02947},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
