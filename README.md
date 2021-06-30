@@ -1,4 +1,5 @@
 # CODER
+![CODER](img/1.png)
 CODER: Knowledge infused cross-lingual medical term embedding for term normalization. [Paper](http://arxiv.org/abs/2011.02947)
 
 # Use the model by transformers
