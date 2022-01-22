@@ -8,14 +8,14 @@ Models have been uploaded to huggingface/transformers repo.
 ```python
 from transformers import AutoTokenizer, AutoModel
 
-tokenizer = AutoTokenizer.from_pretrained("GanjinZero/coder_eng")
-model = AutoModel.from_pretrained("GanjinZero/coder_eng")
+tokenizer = AutoTokenizer.from_pretrained("GanjinZero/UMLSBert_ENG")
+model = AutoModel.from_pretrained("GanjinZero/UMLSBert_ENG")
 ```
-English checkpoints: **GanjinZero/coder_eng** or **GanjinZero/UMLSBert_ENG** (old name)
-
-Multilingual checkpoints: **GanjinZero/coder_all** or **GanjinZero/UMLSBert_ALL** (old name)
+English checkpoints: **GanjinZero/UMLSBert_ENG**
 
 English checkpoints V2 (with hard negative sampling): **GanjinZero/coder_eng_pp**
+
+Multilingual checkpoints: **GanjinZero/UMLSBert_ALL** 
 
 # Train your model
 ```shell
