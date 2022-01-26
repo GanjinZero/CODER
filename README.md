@@ -11,11 +11,11 @@ from transformers import AutoTokenizer, AutoModel
 tokenizer = AutoTokenizer.from_pretrained("GanjinZero/UMLSBert_ENG")
 model = AutoModel.from_pretrained("GanjinZero/UMLSBert_ENG")
 ```
-English checkpoints: **GanjinZero/coder_eng** or **GanjinZero/UMLSBert_ENG** (old name)
+English checkpoints: **GanjinZero/coder_eng** or GanjinZero/UMLSBert_ENG (old name)
 
-English checkpoints ++(with hard negative sampling): **GanjinZero/coder_eng_pp**
+English checkpoints ++: **GanjinZero/coder_eng_pp** (with hard negative sampling)
 
-Multilingual checkpoints: **GanjinZero/coder_all** or **GanjinZero/UMLSBert_ALL**  (old name)
+Multilingual checkpoints: **GanjinZero/coder_all** ~~or GanjinZero/UMLSBert_ALL  (discarded old name)~~
 
 # Train your model
 ```shell
