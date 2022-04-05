@@ -75,3 +75,14 @@ author = {Zheng Yuan and Zhengyun Zhao and Haixia Sun and Jiao Li and Fei Wang a
 keywords = {medical term normalization, cross-lingual, medical term representation, knowledge graph embedding, contrastive learning}
 }
 ```
+
+```bibtex
+@misc{https://doi.org/10.48550/arxiv.2204.00391,
+  doi = {10.48550/ARXIV.2204.00391},
+  url = {https://arxiv.org/abs/2204.00391},
+  author = {Zeng, Sihang and Yuan, Zheng and Yu, Sheng},
+  title = {Automatic Biomedical Term Clustering by Learning Fine-grained Term Representations},
+  publisher = {arXiv},
+  year = {2022}
+}
+```
