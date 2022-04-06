@@ -2,6 +2,8 @@
 ![CODER](img/1.png)
 CODER: Knowledge infused cross-lingual medical term embedding for term normalization. [Paper](http://arxiv.org/abs/2011.02947)
 
+CODER++: Automatic Biomedical Term Clustering by Learning Fine-grained Term Representations. [Paper](https://arxiv.org/abs/2204.00391)
+
 # Use the model by transformers
 Models have been uploaded to huggingface/transformers repo.
 
@@ -11,11 +13,11 @@ from transformers import AutoTokenizer, AutoModel
 tokenizer = AutoTokenizer.from_pretrained("GanjinZero/UMLSBert_ENG")
 model = AutoModel.from_pretrained("GanjinZero/UMLSBert_ENG")
 ```
-English checkpoints: **GanjinZero/coder_eng** or GanjinZero/UMLSBert_ENG (old name)
+English checkpoint: **GanjinZero/coder_eng** or GanjinZero/UMLSBert_ENG (old name)
 
-English checkpoints ++: **GanjinZero/coder_eng_pp** (with hard negative sampling)
+English checkpoint CODER++: **GanjinZero/coder_eng_pp** (with hard negative sampling)
 
-Multilingual checkpoints: **GanjinZero/coder_all** ~~or GanjinZero/UMLSBert_ALL  (discarded old name)~~
+Multilingual checkpoint: **GanjinZero/coder_all** ~~or GanjinZero/UMLSBert_ALL  (discarded old name)~~
 
 # Train your model
 ```shell
