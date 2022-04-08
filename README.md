@@ -16,7 +16,7 @@ model = AutoModel.from_pretrained("GanjinZero/UMLSBert_ENG")
 English checkpoint: **GanjinZero/coder_eng** or GanjinZero/UMLSBert_ENG (old name)
 
 English checkpoint CODER++: **GanjinZero/coder_eng_pp** (with hard negative sampling)
-Please try to use transformers 3.4.0 to load CODER++, we find the model loaded in transformers 4.12.0 behave differently!
+<!-- Please try to use transformers 3.4.0 to load CODER++, we find the model loaded in transformers 4.12.0 behave differently! -->
 
 Multilingual checkpoint: **GanjinZero/coder_all** ~~or GanjinZero/UMLSBert_ALL  (discarded old name)~~
 
