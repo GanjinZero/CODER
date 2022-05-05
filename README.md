@@ -1,6 +1,9 @@
 # CODER
 ![CODER](img/1.png)
+
 CODER: Knowledge infused cross-lingual medical term embedding for term normalization. [Paper](http://arxiv.org/abs/2011.02947)
+
+![CODER++](img/coder++.png)
 
 CODER++: Automatic Biomedical Term Clustering by Learning Fine-grained Term Representations. [Paper](https://arxiv.org/abs/2204.00391)
 
